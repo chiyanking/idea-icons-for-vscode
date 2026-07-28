@@ -8,7 +8,7 @@
       "iconPath": "./svg/apple-icon.svg"
     },
     "_application.yml": {
-      "iconPath": "./svg/my_add/springBoot.svg"
+      "iconPath": "./extra/springBoot.svg"
     },
     "_angular": {
       "iconPath": "./svg/angular-icon.svg"
@@ -41,7 +41,7 @@
       "iconPath": "./svg/clojure-icon.svg"
     },
     "_class": {
-      "iconPath": "./svg/my_add/class.svg"
+      "iconPath": "./extra/class.svg"
     },
     "_coffeescript": {
       "iconPath": "./svg/coffeescript-icon.svg"
@@ -227,7 +227,7 @@
       "iconPath": "./svg/markdown-icon.svg"
     },
     "_maven": {
-      "iconPath": "./svg/my_add/maven_dark.svg"
+      "iconPath": "./extra/maven_dark.svg"
     },
     "_model": {
       "iconPath": "./svg/model-icon.svg"
@@ -269,10 +269,10 @@
       "iconPath": "./svg/rust-icon.svg"
     },
     "_run": {
-      "iconPath": "./svg/my_add/run_dark.svg"
+      "iconPath": "./extra/run_dark.svg"
     },
     "_testClass": {
-      "iconPath": "./svg/my_add/testClass.svg"
+      "iconPath": "./extra/testClass.svg"
     },
     "_slim": {
       "iconPath": "./svg/slim-icon.svg"
@@ -356,7 +356,7 @@
       "iconPath": "./svg/bun-icon.svg"
     },
     "_java": {
-      "iconPath": "./svg/my_add/java_dark.svg"
+      "iconPath": "./extra/java_dark.svg"
     },
     "_liquid": {
       "iconPath": "./svg/liquid-icon.svg"
