@@ -1,29 +1,31 @@
-## 简介/intro
+# idea icons for vscode
 
-此插件是引用了 [JetBrains Icons](https://jetbrains.design/intellij/resources/icons_list/)，加上自定义。forked 自[brennondenny/vsc-jetbrains-icons-enhanced](https://github.com/brennondenny/vsc-jetbrains-icons-enhanced)
----
+JetBrains 风格的 VSCode 文件图标主题，针对 Maven / SpringBoot 项目做了定制。fork 自 [brennondenny/vsc-jetbrains-icons-enhanced](https://github.com/brennondenny/vsc-jetbrains-icons-enhanced)。
 
-This Plugin is a collection of [JetBrains Icons](https://jetbrains.design/intellij/resources/icons_list/) with custom edits and additions. Forked from [brennondenny/vsc-jetbrains-icons-enhanced](https://github.com/brennondenny/vsc-jetbrains-icons-enhanced)
+## 定制图标
 
-## 项目结构/Project Structure
+| 文件 / 目录 | 图标 |
+|------------|------|
+| `pom.xml` | Maven |
+| `application.yml` | SpringBoot |
+| `AppRun.java` | 启动类 |
+| `AppRunTest.java` | 测试类 |
+| `main/java/` `test/java/` | 蓝 / 绿文件夹 |
 
-<img src="myExample.png" alt="Dark Theme Exmaple" style="zoom:80%;" />
+> 由于 VSCode 无法区分接口与抽象类，所有 `.java` 文件显示同一图标。
 
-**插件也有对SpringBoot项目的优化：**仅是AppRun.java和AppRunTest.java有定制图标。
+<img src="myExample.png" alt="example" style="zoom:80%;" />
 
-**注意**：由于vscode无法识别接口和抽象类，所有java后缀的文件都是同一个图标。
+![icons](examples.png)
 
----
+## 安装
 
-**This Plugin also has some optimizations for the springboot project:** Only the AppRun.java and AppRunTest.java files have custom icons, otherwise it is the default java icon.
+```bash
+code --install-extension idea-icons-for-vscode-0.0.6.vsix
+```
 
-**Pay attention**：Since vscode does not recognize interfaces and abstract classes, all java suffix files are the same icon
+安装后在 `文件图标主题` 中选择 **idea icons for vscode**。
 
-## 图标/Icons
+## 许可
 
-![Dark Theme Exmaple](examples.png)
-
----
-
-All JetBrains Icons can be found
-[here](https://jetbrains.design/intellij/resources/icons_list/).
+代码 [MIT](LICENSE) © 2026 wangtk；图标素材源自 [JetBrains](https://jetbrains.design/intellij/resources/icons_list/)（Apache 2.0）。

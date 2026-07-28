@@ -5,10 +5,13 @@
   "categories": [
     "Icons"
   ],
-  "version": "0.0.5",
+  "version": "0.0.7",
   "publisher": "lijialin",
   "license": "MIT",
-  "repository": "https://github.com/chiyanking/idea-icons-for-vscode",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chiyanking/idea-icons-for-vscode.git"
+  },
   "engines": {
     "vscode": "^1.78.2"
   },

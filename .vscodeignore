@@ -5,8 +5,6 @@
 **/.DS_Store
 .git/**
 examples/**
-examples.png
-myExample.png
 intellij-idea.svg
 .vscode/**
 src/**
