@@ -356,7 +356,7 @@
       "iconPath": "./svg/bun-icon.svg"
     },
     "_java": {
-      "iconPath": "./extra/java_dark.svg"
+      "iconPath": "./extra/class.svg"
     },
     "_liquid": {
       "iconPath": "./svg/liquid-icon.svg"
