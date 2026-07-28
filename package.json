@@ -5,7 +5,7 @@
   "categories": [
     "Icons"
   ],
-  "version": "0.0.7",
+  "version": "0.0.8",
   "publisher": "lijialin",
   "license": "MIT",
   "repository": {
@@ -34,6 +34,13 @@
         "id": "idea-icons-for-vscode",
         "label": "idea icons for vscode",
         "path": "./icons/jetbrains-enhanced.json"
+      }
+    ],
+    "themes": [
+      {
+        "label": "IntelliJ IDEA Classic Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/intellij-classic-dark-theme.json"
       }
     ]
   }

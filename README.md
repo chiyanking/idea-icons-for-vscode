@@ -1,6 +1,8 @@
 # idea icons for vscode
 
-JetBrains 风格的 VSCode 文件图标主题，针对 Maven / SpringBoot 项目做了定制。fork 自 [brennondenny/vsc-jetbrains-icons-enhanced](https://github.com/brennondenny/vsc-jetbrains-icons-enhanced)。
+JetBrains 风格的 VSCode 文件图标主题，针对 Maven / SpringBoot 项目做了定制。fork 自 [brennandenny/vsc-jetbrains-icons-enhanced](https://github.com/brennondenny/vsc-jetbrains-icons-enhanced)。
+
+内置一个 IntelliJ 风格的颜色主题 **IntelliJ IDEA Classic Dark**，移植自 [a-havrysh/vscode-intellij-theme](https://github.com/a-havrysh/vscode-intellij-theme)。
 
 ## 定制图标
 
@@ -26,6 +28,8 @@ code --install-extension idea-icons-for-vscode-0.0.6.vsix
 
 安装后在 `文件图标主题` 中选择 **idea icons for vscode**。
 
+在 `颜色主题` 中选择 **IntelliJ IDEA Classic Dark** 即可启用配套的颜色主题。
+
 ## 许可
 
-代码 [MIT](LICENSE) © 2026 wangtk；图标素材源自 [JetBrains](https://jetbrains.design/intellij/resources/icons_list/)（Apache 2.0）。
+代码 [MIT](LICENSE) © 2026 wangtk；图标素材源自 [JetBrains](https://jetbrains.design/intellij/resources/icons_list/)（Apache 2.0）；颜色主题移植自 [a-havrysh/vscode-intellij-theme](https://github.com/a-havrysh/vscode-intellij-theme)。
