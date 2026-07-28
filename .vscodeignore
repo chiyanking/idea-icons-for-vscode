@@ -1,0 +1,15 @@
+**/*.vsix
+**/.gitignore
+**/.gitattributes
+**/.map
+**/.DS_Store
+.git/**
+examples/**
+examples.png
+myExample.png
+icon.png
+intellij-idea.svg
+.vscode/**
+src/**
+node_modules/**
+*.log

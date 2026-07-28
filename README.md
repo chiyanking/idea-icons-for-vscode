@@ -1,7 +1,6 @@
 ## 简介/intro
 
 此插件是引用了 [JetBrains Icons](https://jetbrains.design/intellij/resources/icons_list/)，加上自定义。forked 自[brennondenny/vsc-jetbrains-icons-enhanced](https://github.com/brennondenny/vsc-jetbrains-icons-enhanced)
-
 ---
 
 This Plugin is a collection of [JetBrains Icons](https://jetbrains.design/intellij/resources/icons_list/) with custom edits and additions. Forked from [brennondenny/vsc-jetbrains-icons-enhanced](https://github.com/brennondenny/vsc-jetbrains-icons-enhanced)

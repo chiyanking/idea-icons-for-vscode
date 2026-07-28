@@ -1,17 +1,18 @@
 {
-  "name": "IDEA-Icons-To-Maven-For-VSCode",
-  "displayName": "IDEA-Icons-To-Maven-For-VSCode",
-  "description": "IDEA icons to maven for VSCode",
+  "name": "idea-icons-for-vscode",
+  "displayName": "idea icons for vscode",
+  "description": "idea icons for vscode",
   "categories": [
     "Icons"
   ],
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "lijialin",
+  "license": "MIT",
   "repository": "https://github.com/StraySheepPO8/IDEA-Icons-To-Maven-For-VSCode",
   "engines": {
     "vscode": "^1.78.2"
   },
-  "icon": "plugin_icon.png",
+  "icon": "icon.png",
   "extensionKind": [
     "ui",
     "workspace"
@@ -27,8 +28,8 @@
   "contributes": {
     "iconThemes": [
       {
-        "id": "IDEA-Icons-To-Maven-For-VSCode",
-        "label": "VSCode Icons Enhanced With JetBrains",
+        "id": "idea-icons-for-vscode",
+        "label": "idea icons for vscode",
         "path": "./icons/jetbrains-enhanced.json"
       }
     ]
