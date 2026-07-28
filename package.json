@@ -1,16 +1,16 @@
 {
-  "name": "idea-icons-for-vscode",
-  "displayName": "idea icons for vscode",
-  "description": "idea icons for vscode",
+  "name": "idea-icons-themes-for-vscode",
+  "displayName": "idea icons themes for vscode",
+  "description": "idea icons themes for vscode",
   "categories": [
-    "Icons"
+    "Themes"
   ],
-  "version": "0.0.8",
-  "publisher": "lijialin",
+  "version": "0.0.9",
+  "publisher": "wangtk",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/chiyanking/idea-icons-for-vscode.git"
+    "url": "https://github.com/chiyanking/idea-icons-themes-for-vscode.git"
   },
   "engines": {
     "vscode": "^1.78.2"
@@ -26,13 +26,13 @@
     "intellij"
   ],
   "bugs": {
-    "url": "https://github.com/chiyanking/idea-icons-for-vscode"
+    "url": "https://github.com/chiyanking/idea-icons-themes-for-vscode"
   },
   "contributes": {
     "iconThemes": [
       {
-        "id": "idea-icons-for-vscode",
-        "label": "idea icons for vscode",
+        "id": "idea-icons-themes-for-vscode",
+        "label": "idea icons themes for vscode",
         "path": "./icons/jetbrains-enhanced.json"
       }
     ],
