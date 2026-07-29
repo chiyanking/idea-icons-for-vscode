@@ -130,6 +130,15 @@
     "_foldervscode": {
       "iconPath": "./extra/foldervscode-icon.svg"
     },
+    "_folderandroid": {
+      "iconPath": "./extra/folderandroid-icon.svg"
+    },
+    "_folderdocker": {
+      "iconPath": "./extra/folderdocker-icon.svg"
+    },
+    "_folderios": {
+      "iconPath": "./extra/folderios-icon.svg"
+    },
     "_foldermodules": {
       "iconPath": "./svg/foldermodules-icon.svg"
     },
@@ -396,15 +405,15 @@
     "__tests__": "_folder-green",
     "__mock__": "_folder-purple",
     "app": "_folderapp",
-    "android": "_android",
+    "android": "_folderandroid",
     "assets": "_folderassets",
     "config": "_folderconfig",
     "classes": "_folder-orange",
     "test-classes": "_folder-orange",
     "dmp": "_folderlog",
-    "docker": "_docker",
+    "docker": "_folderdocker",
     "gen": "_foldergen",
-    "ios": "_apple",
+    "ios": "_folderios",
     "images": "_folderassets",
     "main/java": "_folder-blue",
     "test/java": "_folder-green",
@@ -420,7 +429,7 @@
     "target": "_folder-orange",
     "mock": "_folder-purple",
     "web": "_folderpublic",
-    ".android": "_android",
+    ".android": "_folderandroid",
     "_image": "_folderassets",
     "_images": "_folderassets",
     "_img": "_folderassets",
