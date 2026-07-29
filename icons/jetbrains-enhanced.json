@@ -125,10 +125,10 @@
       "iconPath": "./svg/foldergen-icon.svg"
     },
     "_folderlog": {
-      "iconPath": "./svg/folderlog-icon.svg"
+      "iconPath": "./extra/folderlog-icon.svg"
     },
     "_foldervscode": {
-      "iconPath": "./svg/foldervscode-icon.svg"
+      "iconPath": "./extra/foldervscode-icon.svg"
     },
     "_foldermodules": {
       "iconPath": "./svg/foldermodules-icon.svg"
