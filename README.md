@@ -17,7 +17,7 @@ JetBrains 风格的 VSCode 文件图标主题，针对 Maven / SpringBoot 项目
 
 > 由于 VSCode 无法区分接口与抽象类，所有 `.java` 文件显示同一图标。
 
-![icons](examples.png)
+![icons](examples.jpg)
 
 ## 安装
 
