@@ -13,6 +13,7 @@ JetBrains 风格的 VSCode 文件图标主题，针对 Maven / SpringBoot 项目
 | `AppRun.java` | 启动类 |
 | `AppRunTest.java` | 测试类 |
 | `main/java/` `test/java/` | 蓝 / 绿文件夹 |
+| `logs/` | 日志文件夹 |
 
 > 由于 VSCode 无法区分接口与抽象类，所有 `.java` 文件显示同一图标。
 
