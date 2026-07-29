@@ -124,6 +124,9 @@
     "_foldergen": {
       "iconPath": "./svg/foldergen-icon.svg"
     },
+    "_folderlog": {
+      "iconPath": "./svg/folderlog-icon.svg"
+    },
     "_foldermodules": {
       "iconPath": "./svg/foldermodules-icon.svg"
     },
@@ -395,15 +398,15 @@
     "config": "_folderconfig",
     "classes": "_folder-orange",
     "test-classes": "_folder-orange",
-    "dmp": "_log",
+    "dmp": "_folderlog",
     "docker": "_docker",
     "gen": "_foldergen",
     "ios": "_apple",
     "images": "_folderassets",
     "main/java": "_folder-blue",
     "test/java": "_folder-green",
-    "log": "_log",
-    "logs": "_log",
+    "log": "_folderlog",
+    "logs": "_folderlog",
     "node_modules": "_foldermodules",
     "public": "_folderpublic",
     "resources": "_folderresources",
