@@ -2,7 +2,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
   <g fill="none" fill-rule="evenodd">
     <path fill="#9AA7B0" fill-opacity=".8" d="M15,7 L9,7 L9,13 L1,13 L1,2.05128 C1,2.02295884 1.02295884,2 1.05128,2 L4.97888,2 C5.61570121,2.03457993 6.22161957,2.28559443 6.69633,2.71149 L7.98457,4 L15,4 L15,7 Z"/>
-    <g transform="translate(8.3 7.0) scale(0.5)">
+    <g transform="translate(8.2 6.3) scale(0.56)">
       <path d="M5.768 6.429A5.984 5.984 0 0 1 8 6c.787 0 1.54.152 2.228.427L11.63 4l.866.5-1.372 2.376A5.996 5.996 0 0 1 14 12H2a5.996 5.996 0 0 1 2.873-5.122L3.5 4.5l.866-.5 1.402 2.429zM5 9v1h1V9H5zm5 0v1h1V9h-1z" fill="#3DDC84" fill-opacity=".9" fill-rule="evenodd"/>
     </g>
   </g>
